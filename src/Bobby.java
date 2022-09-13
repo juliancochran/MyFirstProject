@@ -39,6 +39,7 @@ public class Bobby {
     public static void main(String[] args) {
         Bobby b = new Bobby("Methusalah", 969, .99);
         System.out.println(b);
+        System.out.println(b.getCoolness());
     }
 }
 
